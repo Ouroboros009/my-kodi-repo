@@ -9,7 +9,7 @@
 		<summary lang="en_GB">Embuary Sounds</summary>
 		<description lang="en_GB">To simulate the sound theme of EmbyTheater</description>
 		<platform>all</platform>
-		<source>https://github.com/sualfred/resource.uisounds.embuary</source>
+		<source>https://github.com/Ouroboros009/resource.uisounds.embuary</source>
 		<license>GNU GENERAL PUBLIC LICENSE Version 2, June 1991</license>
 		<assets>
 			<icon>resources/icon.png</icon>
